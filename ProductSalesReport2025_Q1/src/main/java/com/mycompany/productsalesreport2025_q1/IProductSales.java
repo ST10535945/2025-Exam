@@ -22,4 +22,6 @@ public interface IProductSales {
 
     // Method to calculate minimum sales.
     int MinSale(int[][] productSales);
+    
+    
 }
